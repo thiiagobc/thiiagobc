@@ -2,7 +2,7 @@
 
 Olá! 👋
 
-Sou Thiago de Brito Corteis, estudante de Análise e Desenvolvimento de Sistemas e atualmente em transição de carreira do mercado financeiro para a área de tecnologia.
+Sou Thiago de Brito Corteis, tenho 28 anos, moro em Uberlândia/Minas Gerais, estudante de Análise e Desenvolvimento de Sistemas e atualmente em transição de carreira do mercado financeiro para a área de tecnologia.
 
 🎯 Estou focado em aprender Java, mas também já explorei outras linguagens e tecnologias:
 - Estudei **HTML** e **CSS** pela [Alura](https://www.alura.com.br/)
