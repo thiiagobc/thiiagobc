@@ -5,8 +5,9 @@ Olá! 👋
 Sou Thiago de Brito Corteis, tenho 28 anos, moro em Uberlândia/Minas Gerais, estudante de Análise e Desenvolvimento de Sistemas e atualmente em transição de carreira do mercado financeiro para a área de tecnologia.
 
 🎯 Estou focado em aprender Java, mas também já explorei outras linguagens e tecnologias:
-- Estudei **HTML** e **CSS** pela [Alura](https://www.alura.com.br/)
+- Estudei **HTML** e **CSS** pela [Alura](https://www.alura.com.br/) e [PenseAvanti](https://penseavanti.com.br).
 - Estudei **JavaScript** com o professor [Gustavo Guanabara](https://www.youtube.com/@CursoemVideo)
+- Estudando **Java** com a professora [Loiane Groner](https://loiane.training)
 - Concluí cursos de **Python** (Banco Bradesco) e **C++** (Uberhub), o que ampliou meu entendimento sobre lógica e algoritmos
 
 🚀 Estou em busca de uma **oportunidade de emprego** para colocar em prática todo esse aprendizado, contribuir com projetos reais e continuar evoluindo como desenvolvedor.
